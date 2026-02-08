@@ -12,6 +12,8 @@ The objective is to classify loan applicants as Good Credit Risk or Bad Credit R
 
 # Business Objective
 
+Prep end to end product from data to deployable model
+
 Assess creditworthiness of loan applicants
 
 Minimize default risk
