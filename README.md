@@ -1,4 +1,4 @@
-<img width="1854" height="903" alt="image" src="https://github.com/user-attachments/assets/7e29d735-77c1-4587-88ed-80df44704b65" /># CREDIT-RISK-ANALYSIS
+# CREDIT-RISK-ANALYSIS
 Credit Risk Analysis of Banking Data :: Prepared machine learning model to presdict credit rist
 Utilised :: Python, Machine Learning Model and Streamlit to present on web "http://localhost:8501"
 
