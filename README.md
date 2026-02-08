@@ -1,5 +1,6 @@
 # CREDIT-RISK-ANALYSIS
-Credit Risk Analysis using Random Forest
+Credit Risk Analysis of Banking Data :: Prepared machine learning model to presdict credit rist
+Utilised :: Python, Machine Learning Model and Streamlit to present on web 
 
 # Project Overview
 
