@@ -77,20 +77,8 @@ Performed EDA to identify patterns influencing credit risk:
 
 Distribution of credit amount and loan duration
 
-# Machine Learning Model – Random Forest
-6️⃣ Train-Test Split
+# Machine Learning Models :: Decision Tree and Random Forest
 
-7️⃣ Model Building
-
-Used Random Forest Classifier due to:
-
-High predictive accuracy
-
-Ability to handle non-linear relationships
-
-Built-in feature importance
-
-Robustness to outliers
 
 
 
