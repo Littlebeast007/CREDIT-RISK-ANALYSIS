@@ -10,7 +10,7 @@ This project uses the German Credit Dataset to build a machine learning–based 
 The objective is to classify loan applicants as Good Credit Risk or Bad Credit Risk by analyzing demographic, financial, and credit history attributes. The project demonstrates a complete end-to-end credit analytics workflow, aligned with real-world responsibilities of a Credit Analyst / Risk Analyst.
 
 
-#Business Objective
+# Business Objective
 
 Assess creditworthiness of loan applicants
 
