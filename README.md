@@ -19,8 +19,8 @@ Support loan approval, rejection, or risk-based pricing decisions
 
 Provide interpretable insights for credit decision-making
 
-#Step-by-Step Data Analysis & Modeling
-1️⃣ Data Loading & Initial Inspection
+# Step-by-Step Data Analysis & Modeling
+#1️⃣ Data Loading & Initial Inspection
 
 Load dataset into Pandas DataFrame
 
@@ -74,18 +74,8 @@ Performed EDA to identify patterns influencing credit risk:
 
 Distribution of credit amount and loan duration
 
-#Machine Learning Model – Random Forest
+# Machine Learning Model – Random Forest
 6️⃣ Train-Test Split
-
-Split data into:
-
-80% Training
-
-20% Testing
-
-X_train, X_test, y_train, y_test = train_test_split(
-    X, y, test_size=0.2, random_state=42
-)
 
 7️⃣ Model Building
 
