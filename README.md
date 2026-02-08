@@ -109,3 +109,6 @@ Strong performance on structured/tabular data
 
 📌 Key Advantage
 XGBoost achieved the best balance between recall and overall accuracy, making it effective for identifying high-risk borrowers.
+
+
+<img width="1854" height="903" alt="Screenshot 2026-02-08 234503" src="https://github.com/user-attachments/assets/4319d046-a61d-4a5f-b30f-680321c5b26e" />
