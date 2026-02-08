@@ -78,10 +78,34 @@ Performed EDA to identify patterns influencing credit risk:
 Distribution of credit amount and loan duration
 
 # Machine Learning Models :: Decision Tree and Random Forest
+7️⃣ Decision Tree Classifier
+Why Decision Tree?
 
+Simple and interpretable
 
+Mimics rule-based credit decision logic
 
+Useful for explaining decisions to stakeholders
 
-Credit risk variation by age group
+8️⃣ Random Forest Classifier
+Why Random Forest?
 
-Relationship between credit
+Ensemble of multiple decision trees
+
+Handles non-linear relationships effectively
+
+Reduces overfitting compared to a single tree
+
+Provides feature importance scores
+
+9️⃣ XGBoost Classifier
+Why XGBoost?
+
+Gradient boosting algorithm optimized for performance
+
+Handles complex patterns and feature interactions
+
+Strong performance on structured/tabular data
+
+📌 Key Advantage
+XGBoost achieved the best balance between recall and overall accuracy, making it effective for identifying high-risk borrowers.
